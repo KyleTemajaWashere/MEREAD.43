@@ -2,7 +2,7 @@
 <h1 align="center">Hi! I'm Kyle Temaja</h1>
 <h3 align="center">Currently a 14 year old student from the city: Jakarta, country: Indonesia</h3>
 
-<div align="center"><img src="file:///C:/Users/user/Downloads/unnamed.png" alt="Banner" border="0" style="aspect-ratio: 5 / 2" width="80%"></div>
+<div align="center"><img src="https://twitter.com/YinzazisOnline/header_photo" alt="Banner" border="0" style="aspect-ratio: 5 / 2" width="80%"></div>
 
 ---
 
